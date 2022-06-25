@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "actions-on-google": "^2.6.0",
-    "applicationinsights": "^1.2.0",
+    "applicationinsights": "^1.8.10",
     "body-parser": "^1.18.3",
     "botframework-directlinejs": "^0.11.4",
     "express": "^4.16.4",
