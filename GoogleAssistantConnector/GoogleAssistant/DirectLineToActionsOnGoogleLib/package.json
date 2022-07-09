@@ -10,7 +10,7 @@
     "node": "~6.10.x"
   },
   "dependencies": {
-    "actions-on-google": "^2.6.0",
+    "actions-on-google": "^2.9.1",
     "applicationinsights": "^1.2.0",
     "body-parser": "^1.18.3",
     "botframework-directlinejs": "^0.11.4",
